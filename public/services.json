@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "title": "Birthday Magic Makers",
+      "image": "https://i.ibb.co/XDgD1Pg/y5xx-10v0-220107.jpg",
+      "description": "This is the detailed description for Product 1. It is a great product with many features.",
+      "price": "29.99"
+    },
+    {
+      "id": "2",
+      "title": "Cake & Candle Creators",
+      "image": "https://i.ibb.co/nbhmLWJ/233847-P2-DBQZ-312.jpg",
+      "description": "Product 2 is another fantastic item with a unique description.",
+      "price": "19.95"
+    },
+    {
+      "id": "3",
+      "title": "Celebration Craftsmen",
+      "image": "https://i.ibb.co/dK57fvX/5720583.jpg",
+      "description": "The description for Product 3 highlights its high quality and performance.",
+      "price": "49.99"
+    },
+    {
+      "id": "4",
+      "title": "The Party Planners",
+      "image": "https://i.ibb.co/R7JjTL8/4111006.jpg",
+      "description": "This is Product 4, which comes with various features and benefits.",
+      "price": "39.99"
+    },
+    {
+      "id": "5",
+      "title": "Event Enchanters",
+      "image": "https://i.ibb.co/wK5QqLn/7016179.jpg",
+      "description": "Product 5 is a new addition to our product lineup with an exciting description.",
+      "price": "59.99"
+    },
+    {
+      "id": "6",
+      "title": "Memorable Moments ",
+      "image": "https://i.ibb.co/J7MV6wr/3363270.jpg",
+      "description": "Product 6 is designed for maximum performance and user satisfaction.",
+      "price": "79.99"
+    }
+  ]
+

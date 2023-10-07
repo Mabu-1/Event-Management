@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Yjs7XW6/group-friends-celebrating-new-year-concept.jpg",
+      "date": "October-18 2023, 08PM",
+      "icon": "https://example.com/icon1.png",
+      "destination": "56-E, Bash Boulevard, Merrymaker City, CA"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/HnNqZZK/time-celebrate-ninth-birthday.jpg",
+      "date": "October-29 2023,11AM",
+      "icon": "https://example.com/icon2.png",
+      "destination": "89-F, Jubilee Junction, Celebration Central, CA"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/YQcQDg3/friends-having-fun-party.jpg",
+      "date": "October-23 2023,11AM",
+      "icon": "https://example.com/icon3.png",
+      "destination": "34-G, Party Parkway, Happyside Heights, CA"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/2PySmcj/kids-with-balloons-birthday-party.jpg",
+      "date":"October-20 2023,11AM",
+      "icon": "https://example.com/icon4.png",
+      "destination": "67-H, Event Expressway, Joyfulville, CA"
+    }
+  ]
+  

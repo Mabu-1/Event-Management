@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "David M",
+      "review": "Absolutely flawless! They turned my son's birthday into a magical adventure. Highly recommended!",
+      "image": "https://i.ibb.co/N3KnKzJ/portrait-white-man-isolated.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah J.",
+      "review": "The attention to detail was incredible. Our daughter's party was a dream come true",
+      "image": "https://i.ibb.co/Qmc8q0P/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mike",
+      "review": "The team made my birthday party stress-free and fun. A fantastic experience!",
+      "image": "https://i.ibb.co/QPdWwC0/handsome-young-man-with-new-stylish-haircut.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rocky",
+      "review": "I couldn't have asked for a better celebration. Thank you for the unforgettable memories.",
+      "image": "https://i.ibb.co/9c4bHWd/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tom",
+      "review": "Exceeded all expectations. They know how to throw a party!",
+      "image": "https://i.ibb.co/QQJ58H2/close-up-portrait-curly-handsome-european-male.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Loki",
+      "review": "Professional, creative, and dedicated. They made my milestone birthday unforgettable.",
+      "image": "https://i.ibb.co/DrntbmC/bohemian-man-with-his-arms-crossed.jpg"
+    }
+  ]
+  
