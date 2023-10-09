@@ -45,7 +45,7 @@ const Navbar = () => {
     <div className="navbar ">
       <div className="navbar-start">
         <Link to='/'> <img
-          className="w-[90px]  hidden md:block lg:block"
+          className="w-[130px]  hidden md:block lg:block"
           src="https://i.ibb.co/S6Q3Vv7/logo.png"
           alt=""
         /></Link>
