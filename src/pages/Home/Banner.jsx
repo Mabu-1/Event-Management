@@ -3,6 +3,7 @@ import {  AiOutlineArrowRight } from 'react-icons/ai';
 import PropTypes from 'prop-types';
 import AOS from "aos"; // Import the aos package
 import "aos/dist/aos.css"; // Import the CSS for aos animations
+import { Link } from 'react-router-dom';
 
 const Banner = () => {
     const [text, setText] = useState('');
@@ -56,7 +57,7 @@ const Banner = () => {
                     dangerouslySetInnerHTML={{ __html: `<b>${text}</b>` }}
                 ></h2>
                 {showImage && (
-                   <button className='btn btn-secondary mt-4'>About Us <span><AiOutlineArrowRight className='text-lg'></AiOutlineArrowRight></span></button>
+                  <Link to='/about'><button className='btn btn-secondary mt-4'>About Us <span><AiOutlineArrowRight className='text-lg'></AiOutlineArrowRight></span></button></Link> 
                 )}
                
             </div>
