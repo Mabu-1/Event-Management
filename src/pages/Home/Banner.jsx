@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import {  AiOutlineArrowRight } from 'react-icons/ai';
 import PropTypes from 'prop-types';
+import AOS from "aos"; // Import the aos package
+import "aos/dist/aos.css"; // Import the CSS for aos animations
 
 const Banner = () => {
     const [text, setText] = useState('');
@@ -42,7 +44,7 @@ const Banner = () => {
     };
 
     return (
-        <div className="relative bg-cover bg-no-repeat bg-center min-h-screen" style={bannerStyle}>
+        <div className="relative bg-cover bg-no-repeat bg-center min-h-screen" style={bannerStyle} data-aos="fade-left">
             <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-30">
                 {showImage && (
                     <h2 className={`text-center text-white text-xl `}>

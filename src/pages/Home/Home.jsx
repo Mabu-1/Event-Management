@@ -1,13 +1,14 @@
 
 import { useLoaderData } from "react-router-dom";
-import Navbar from "../../Shared/Navbar/Navbar";
+
 import Banner from "./Banner";
 import Welcome from "./Welcome";
 import ServiceCard from "./ServiceCard";
 import { useEffect, useState } from "react";
 import Testimonials from "./Testimonials";
 import Marquee from "react-fast-marquee";
-
+import AOS from "aos"; // Import the aos package
+import "aos/dist/aos.css"; // Import the CSS for aos animations
 
 const Home = () => {
     const [testimonials, setTestimonials] = useState([]);
@@ -24,13 +25,18 @@ const Home = () => {
           });
       }, []);
     const services =useLoaderData();
-   
+    useEffect(() => {
+      // Initialize AOS
+      AOS.init({
+        duration: 2000, // Animation duration in milliseconds
+      });
+    }, []);
     return (
         <div>
-           <Navbar></Navbar>
+          
            <Banner></Banner>
            <Welcome></Welcome>
-           <div className="mt-4 " >
+           <div className="mt-4 " data-aos="fade-right">
            <h1 className="text-center text-4xl font-bold mb-4 "> <span className="text-[#FFB807] ml-2">HappyBirthDays</span> Services</h1>
                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                     {

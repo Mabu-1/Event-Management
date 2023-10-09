@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Ava Taylor",
+      "title": "Supervisor",
+      "description": "Our Supervisor guarantees every detail is meticulously executed, ensuring your event runs smoothly.",
+      "image": "https://i.ibb.co/xD2tshR/sympathetic-nice-beautiful-dark-hair-young-woman-confidently.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mike Johnson",
+      "title": "Events Manager",
+      "description": "Our Events Manager brings creativity and precision to your occasion, making it truly exceptional.",
+      "image": "https://i.ibb.co/pxVdr2n/portrait-friendly-confident-caucasian-bearded-guy-with-moustache-wearing-glasses-smiling-politely-lo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Charles Hasman",
+      "title": "Founder & Director",
+      "description": "Our Founder & Director leads with passion, crafting memorable experiences that reflect your vision.",
+      "image": "https://i.ibb.co/p1Sr0nL/close-up-bearded-tired-man.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "title": "Events Manager",
+      "description": "Our second Events Manager is your dedicated point of contact, ensuring every aspect of your event is perfectly coordinated.",
+      "image": "https://i.ibb.co/Yyrv8Qz/cute-smiling-young-man-with-bristle-looking-satisfied.jpg"
+    }
+  ]
+  

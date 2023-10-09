@@ -1,5 +1,5 @@
 import { useLoaderData } from "react-router-dom";
-import Navbar from "../../Shared/Navbar/Navbar";
+
 import Marquee from "react-fast-marquee";
 import LatestEvent from "./LatestEvent";
 import { useEffect, useState } from "react";
@@ -21,7 +21,7 @@ const Event = () => {
     const events=useLoaderData();
     return (
         <div>
-            <Navbar></Navbar>
+          
             <div className="mt-4 " >
            <h1 className="text-center text-4xl font-bold mb-4 "> <span className="text-[#ff078b] ml-2">Latest Events</span> </h1>
            <div className="gap-4">

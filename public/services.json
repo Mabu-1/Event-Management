@@ -3,43 +3,99 @@
       "id": "1",
       "title": "Birthday Magic Makers",
       "image": "https://i.ibb.co/XDgD1Pg/y5xx-10v0-220107.jpg",
-      "description": "This is the detailed description for Product 1. It is a great product with many features.",
-      "price": "29.99"
+      "image1": "https://i.ibb.co/yNLwgNf/802.jpg",
+      "image2": "https://i.ibb.co/dQxSYWN/56802-O8-PUD5-787.jpg",
+      "image3": "https://i.ibb.co/z7JsBks/5573338.jpg",
+      "image4": "https://i.ibb.co/0G8VGH1/aatb-auc7-220107.jpg",
+     
+      "description": "We specialize in transforming birthdays into enchanting and unforgettable experiences through our creative expertise and attention to detail",
+      "description1": "At Birthday Magic Makers, we are dedicated to turning your special day into a magical and unforgettable experience. With a team of passionate event professionals, we specialize in crafting birthday celebrations that are nothing short of enchanting.",
+      "description2": "Our creative expertise knows no bounds, and we pour our hearts into every detail, from selecting the perfect theme to orchestrating seamless execution. Whether it's a child's whimsical dream or an adult's sophisticated soirée, we tailor each celebration to your unique vision, ensuring it's a reflection of your personality and style.",
+      "description3": "With Birthday Magic Makers, you can trust that your birthday will be more than just an event; it will be a memory that you and your loved ones cherish for a lifetime. Let us work our magic to create moments that will leave you spellbound.",
+      "price": "29.99",
+      "conclusion":"Experience the wonder as we transform ordinary birthdays into enchanting and unforgettable memories. With creativity as our wand and precision as our spell, we craft celebrations that leave you and your loved ones spellbound. Let us sprinkle some magic into your special day!"
     },
     {
       "id": "2",
       "title": "Cake & Candle Creators",
       "image": "https://i.ibb.co/nbhmLWJ/233847-P2-DBQZ-312.jpg",
-      "description": "Product 2 is another fantastic item with a unique description.",
-      "price": "19.95"
+      "image1": "https://i.ibb.co/SQ15dkK/delicious-white-cake-with-party-accessories-dual-background.jpg",
+      "image2": "https://i.ibb.co/Np7dJYG/easter-cake-decorated-with-flowers-bright-details-festive-table-easter-celebration-concept.jpg",
+      "image3": "https://i.ibb.co/6W4L6YL/5598599.jpg",
+      "image4": "https://i.ibb.co/R0y6NZq/63208-OAQ1-T4-922.jpg",
+      "description": "Where delectable confections and ambient illumination combine to elevate your celebrations",
+      "description1": "At Cake & Candle Creators, we specialize in crafting the perfect blend of delectable confections and ambient illumination to make your celebrations truly exceptional.",
+      "description2": "Our team is passionate about the art of baking and creating exquisite cakes that not only delight the taste buds but also serve as stunning centerpieces for your events. We take pride in using the finest ingredients and innovative designs to ensure your cake becomes a cherished part of your memorable moments.",
+      "description3": "In addition to our delicious cakes, we excel in crafting unique candle arrangements that add a warm, inviting glow to your special occasions. Our attention to detail and dedication to quality shine through in every creation. Trust Cake & Candle Creators to make your celebrations a feast for the senses, where taste and ambiance come together in perfect harmony.",
+      "price": "19.95",
+      "conclusion":"Indulge in the artistry of our confections and the warm glow of our ambient lighting as we craft experiences that truly linger in your heart. We're not just about cakes and candles; we're about creating the ambiance and flavors that elevate your celebrations into extraordinary moments of delight."
     },
     {
       "id": "3",
       "title": "Celebration Craftsmen",
       "image": "https://i.ibb.co/dK57fvX/5720583.jpg",
-      "description": "The description for Product 3 highlights its high quality and performance.",
-      "price": "49.99"
+      "image1": "https://i.ibb.co/8j7H75R/2481.jpg",
+      "image2": "https://i.ibb.co/qJ2Y3Jz/2516958.jpg",
+      "image3": "https://i.ibb.co/1XxDvRT/6067268.jpg",
+      "image4": "https://i.ibb.co/FJqVnHB/4270730.jpg",
+      "description": "Merging artistry and expertise to craft unforgettable celebrations.",
+      "description1": "At Celebration Craftsmen, we are more than just event planners; we are artisans of celebrations. With a unique blend of creativity and expertise, our team is dedicated to crafting events that are nothing short of unforgettable.",
+      "description2": "We pride ourselves on our meticulous attention to detail and our ability to turn your ideas into stunning realities. From conceptualizing creative themes to orchestrating flawless execution, we work tirelessly to ensure that every aspect of your celebration is carefully crafted to reflect your unique style and vision.",
+      "description3": "When you choose Celebration Craftsmen, you're choosing a team of passionate craftsmen who will pour their hearts into making your celebration a masterpiece. Let us turn your special moments into enduring memories, where every detail is a work of art.",
+      "price": "49.99",
+      "conclusion":"At Celebration Craftsmen, we believe that each event is a masterpiece waiting to be created. With a blend of artistic flair and meticulous planning, we sculpt your occasions into timeless celebrations. From conceptualization to execution, we shape your ideas into unforgettable experiences."
     },
     {
       "id": "4",
       "title": "The Party Planners",
       "image": "https://i.ibb.co/R7JjTL8/4111006.jpg",
-      "description": "This is Product 4, which comes with various features and benefits.",
-      "price": "39.99"
+      "image1": "https://i.ibb.co/48nfhwY/2102-i121-040-isometric-birthday-congratulating-businessman-office.jpg",
+      "image2": "https://i.ibb.co/qJ2Y3Jz/2516958.jpg",
+      "image3": "https://i.ibb.co/1XxDvRT/6067268.jpg",
+      "image4": "https://i.ibb.co/bNKhY4N/4067780.jpg",
+      "description": "Your trusted partners in creating memorable and stress-free events",
+      "description1": "At The Party Planners, we are dedicated to making your event dreams come true. We understand that planning a party can be overwhelming, and that's where our expertise comes in.",
+      "description2": "Our experienced team takes care of every detail, from the initial concept to the final execution, ensuring that your event is a seamless and memorable experience. We pride ourselves on our creativity, precision, and attention to detail, making sure that your event reflects your unique style and vision.",
+      "description3": "When you choose The Party Planners, you're choosing a team that is passionate about creating moments that will be cherished for a lifetime. Let us handle the logistics while you enjoy the celebration with your loved ones, knowing that your event is in capable and caring hands.",
+      "price": "39.99",
+      "conclusion":"We're more than just planners; we're the architects of your stress-free, memorable celebrations. With passion as our foundation and expertise as our framework, we construct moments that resonate with joy. Trust us to build the event you've envisioned while you relax and enjoy every moment."
     },
     {
       "id": "5",
       "title": "Event Enchanters",
       "image": "https://i.ibb.co/wK5QqLn/7016179.jpg",
-      "description": "Product 5 is a new addition to our product lineup with an exciting description.",
-      "price": "59.99"
+      "image1": "https://i.ibb.co/Ry32kPP/3355747.jpg",
+      "image2": "https://i.ibb.co/z7JsBks/5573338.jpg",
+      "image3": "https://i.ibb.co/dQxSYWN/56802-O8-PUD5-787.jpg",
+      "image4": "https://i.ibb.co/0G8VGH1/aatb-auc7-220107.jpg",
+      "description": "We specialize in adding a touch of enchantment to your events with creativity and expertise",
+      "description1": "With Event Enchanters, we're not just event planners; we're the creators of enchantment. Our team is driven by a passion for crafting experiences that captivate and inspire.",
+      "description2": "We pride ourselves on our meticulous attention to detail and our ability to transform ordinary occasions into extraordinary memories. From conceptualizing unique themes to orchestrating flawless execution, we bring creativity and expertise to every event we touch.",
+      "description3": "At Event Enchanters, we believe that every celebration should be a magical journey. Let us weave our spells and turn your vision into an enchanting reality, leaving you and your guests spellbound by the beauty and wonder of your event.",
+      "price": "59.99",
+      "conclusion":"Prepare to be captivated as we transform your events into immersive and magical experiences. Beyond traditional planning, we are the storytellers who weave enchantment into every detail. From concept to realization, we conjure the magic that turns your celebrations into unforgettable tales of wonder."
+      
     },
     {
       "id": "6",
       "title": "Memorable Moments ",
       "image": "https://i.ibb.co/J7MV6wr/3363270.jpg",
-      "description": "Product 6 is designed for maximum performance and user satisfaction.",
-      "price": "79.99"
+      "image1": "https://i.ibb.co/F6Hkqz6/d2pz-tflp-210218.jpg",
+      "image2": "https://i.ibb.co/23fqr05/8819910.jpg",
+      "image3": "https://i.ibb.co/7NRWfFS/4194864.jpg",
+      "image4": "https://i.ibb.co/W2NR42j/4194851.jpg",
+      "description": "Crafting unforgettable memories, one celebration at a time.",
+      "description1": "At Memorable Moments, we specialize in curating events that become cherished memories. With a keen eye for detail and a passion for creativity, our dedicated team works tirelessly to ensure that every celebration is a unique and unforgettable experience",
+      "description2": "We believe in the power of moments to shape our lives, and we consider it an honor to play a part in crafting these special occasions. From milestone birthdays to weddings, corporate gatherings, and beyond, we are committed to exceeding expectations, bringing your vision to life, and ensuring that every aspect of your event is perfectly executed.",
+      "description3": "When you choose Memorable Moments, you're choosing a team of event professionals who are dedicated to turning your dreams into reality. We thrive on the joy of creating memories that will be cherished for a lifetime, and we look forward to being a part of your next unforgettable celebration.",
+      "price": "79.99",
+      "conclusion":"At Memorable Moments, we understand the power of memories in shaping lives. With dedication and creativity, we sculpt occasions into cherished memories. Our passion lies in curating unforgettable experiences, crafting moments that become lasting treasures for you and your loved ones."
+
+
+
+
+
+
     }
   ]
 

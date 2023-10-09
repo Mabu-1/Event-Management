@@ -1,8 +1,17 @@
-
+import AOS from "aos"; // Import the aos package
+import "aos/dist/aos.css"; // Import the CSS for aos animations
+import { useEffect } from "react";
 
 const Welcome = () => {
+    useEffect(() => {
+        // Initialize AOS
+        AOS.init({
+          duration: 1000, // Animation duration in milliseconds
+        });
+      }, []);
+    
     return (
-        <div className="flex mt-5 sm:flex-col lg:flex-row md;flex-row">
+        <div className="flex mt-5 sm:flex-col lg:flex-row md;flex-row " data-aos="fade-right">
             <div className="max-w-[600px]">
              <img className="w-full" src="https://i.ibb.co/9tvBfSb/5264630.jpg" alt="" />
             </div>
